@@ -90,8 +90,6 @@ The system follows a structured backend architecture using PHP with database-dri
 - Role-based authorization  
 - Controlled dashboard access  
 
----
-
 
 ---
 
