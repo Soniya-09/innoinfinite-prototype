@@ -1,122 +1,123 @@
-Software Consultancy Management System (Internship Prototype)
+# Software Consultancy Management System (Internship Prototype)
 
-A full-stack web-based Consultancy Management System developed as an internship prototype project.
+A full-stack web-based Consultancy Management System developed as an internship prototype project.  
 The system simulates real-world consultancy operations by integrating Admin and Client roles into a unified platform.
 
-📌 Project Overview
+---
 
-This application is designed to manage the end-to-end workflow of a software consultancy firm, including:
+## 📌 Project Overview
 
-Client onboarding
+This application is designed to manage the complete workflow of a software consultancy firm, including:
 
-Service request handling
+- Client onboarding  
+- Service request handling  
+- Proposal management  
+- Project tracking  
+- Invoice generation  
+- Payment simulation  
+- Internal communication system  
 
-Proposal management
+The system follows a structured backend architecture using PHP with database-driven design principles.
 
-Project tracking
+---
 
-Invoice generation
+## 🎯 Core Features
 
-Payment simulation
+### 👨‍💼 Admin Panel
+- Service Management (CRUD operations)
+- Client Account Management
+- Request Review & Approval
+- Proposal & Quotation Generation
+- Project Lifecycle Tracking
+- Milestone Management
+- Invoice Creation & Payment Tracking
+- Messaging System
+- Business Reports & Revenue Overview
 
-Internal communication system
+### 👤 Client Panel
+- Service Browsing
+- Request Submission
+- Proposal Review & Response
+- Project Progress Monitoring
+- Invoice Viewing
+- Dummy Payment Processing
+- Messaging with Admin
+- Notification System
 
-The system demonstrates structured backend architecture using PHP with database-driven design principles.
+---
 
-🎯 Core Features
-👨‍💼 Admin Panel
+## 🛠️ Technology Stack
 
-Service Management (CRUD)
+### Backend
+- PHP (Core server-side logic)
 
-Client Account Management
+### Frontend
+- HTML  
+- CSS  
+- JavaScript  
+- Bootstrap 5  
 
-Request Review & Approval
+### Database
+- MySQL  
 
-Proposal & Quotation Generation
+### Authentication
+- Session-Based Authentication  
+- Role-Based Access Control (Admin / Client)
 
-Project Lifecycle Tracking
+### Development Environment
+- XAMPP (Apache + MySQL)
 
-Milestone Management
+---
 
-Invoice Creation & Payment Tracking
+## 🔄 System Workflow
 
-Messaging System
+1. Client Registration  
+2. Service Request Submission  
+3. Admin Review & Proposal Creation  
+4. Client Proposal Approval  
+5. Project Creation  
+6. Milestone & Progress Tracking  
+7. Invoice Generation  
+8. Payment Simulation  
+9. Ongoing Communication  
 
-Business Reports & Revenue Overview
+---
 
-👤 Client Panel
+## 🔐 Security Features
 
-Service Browsing
+- Secure password hashing  
+- Session management  
+- Role-based authorization  
+- Controlled dashboard access  
 
-Request Submission
+---
 
-Proposal Review & Response
 
-Project Progress Monitoring
+---
 
-Invoice Viewing
+## 🎓 Learning Outcomes
 
-Dummy Payment Processing
+This project demonstrates:
 
-Messaging with Admin
+- Full-Stack Web Development  
+- Database Schema Design  
+- CRUD Operations  
+- Role-Based Access Control  
+- Workflow Automation  
+- Project & Invoice Management Logic  
+- Payment Simulation Architecture  
+- Real-World Business Process Modeling  
 
-Notification System
+---
 
-🛠️ Technology Stack
-Backend
+## 📌 Project Status
 
-PHP (Core application logic – majority of codebase)
+Prototype Version – Developed during Internship  
+Created for demonstration, learning, and portfolio purposes.
 
-Frontend
+---
 
-HTML
+## 📄 License
 
-CSS
-
-JavaScript
-
-Bootstrap 5
-
-Database
-
-MySQL
-
-Authentication
-
-Session-Based Authentication
-
-Role-Based Access Control (Admin / Client)
-
-Development Environment
-
-XAMPP (Apache + MySQL)
-
-🔄 System Workflow
-
-Client Registration
-
-Service Request Submission
-
-Admin Review & Proposal Creation
-
-Client Proposal Approval
-
-Project Creation
-
-Milestone & Progress Tracking
-
-Invoice Generation
-
-Payment Simulation
-
-Ongoing Communication
-
-🔐 Security Features
-
-Secure password hashing
-
-Session management
-
-Role-based authorization
-
-Controlled dashboard access
+This project is developed for educational and internship demonstration purposes.  
+Not intended for commercial deployment.
